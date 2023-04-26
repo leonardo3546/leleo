@@ -4,8 +4,8 @@
 }
 
 .cabecalho{
-    background-color: brown;
-    color: blueviolet;
+    background-color: blueviolet;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -19,13 +19,14 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 56px;
+
 }
 .escola-imagem{
     width: 25%;
 }
 
 .escola-titulo{
-    padding: 24px 0;
+    padding: 12px 0;
 }
 
 .escola-div-conteudo{
@@ -33,5 +34,5 @@
 }
 
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif; 
 }
